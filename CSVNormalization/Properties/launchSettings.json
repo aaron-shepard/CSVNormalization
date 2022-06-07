@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVNormalization": {
+      "commandName": "Project",
+      "commandLineArgs": "< C:\\Users\\Aaron\\source\\repos\\CSVNormalization\\CSVNormalization\\input\\broken-utf8.csv > C:\\Users\\Aaron\\source\\repos\\CSVNormalization\\CSVNormalization\\output\\output.csv"
+    }
+  }
+}
